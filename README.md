@@ -25,3 +25,5 @@
 - Observing the active flow limit on link s2-s3 and routing behavior.
 - A sleep action for 20 seconds followed by a new UDP stream from h4 to h2, demonstrating reactivation of the s2-s3 link.
 - Limited bandwidth for clearer InMon mininet dashboard (Sflow) graphs.
+
+This project was a joint effort with my colleagues Manuele Montrasio and Luigi Borroni, we worked together on developing code, analyzing data, and generating visual aids to support our results.
